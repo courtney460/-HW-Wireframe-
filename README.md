@@ -1,5 +1,10 @@
 # -HW-Wireframe-
 Week 1 HW
+<<<<<<< HEAD
+=======
+ -HW-Wireframe-
+Week 1 HW
+>>>>>>> 83bb57be64d19b44ddaeb74c2737b250f5fda531
 ## Week 1 (Easier) Assignment - Building a Wireframe
 
 ### Overview
@@ -73,4 +78,8 @@ If you have any questions about this project or about the material we covered, t
 
 ## Copyright
 Coding Boot Camp &copy; 2016. All Rights Reserved.
+<<<<<<< HEAD
 s
+=======
+s
+>>>>>>> 83bb57be64d19b44ddaeb74c2737b250f5fda531
